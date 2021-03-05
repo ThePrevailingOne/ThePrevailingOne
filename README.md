@@ -2,13 +2,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
+<div display="flex">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=theprevailingone&hide=prs&count_private=true&theme=react" width="40%" margin-left="10%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=theprevailingone&hide=prs&count_private=true&theme=react" height="150px" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprevailingone&layout=compact&theme=react"  width="40%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprevailingone&layout=compact&theme=react"  height="150px" />
 </a>
+</div>
 
 <!--
 **ThePrevailingOne/ThePrevailingOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
