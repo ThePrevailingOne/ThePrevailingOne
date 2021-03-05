@@ -1,12 +1,13 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theprevailingone&hide=prs&count_private=true&theme=react)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theprevailingone&hide=prs&count_private=true&theme=react)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=theprevailingone&hide=prs&count_private=true&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=theprevailingone&hide=prs&count_private=true&theme=react" width="40%" margin-left="10%"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprevailingone&layout=compact&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprevailingone&layout=compact&theme=react"  width="40%"/>
 </a>
 
 <!--
